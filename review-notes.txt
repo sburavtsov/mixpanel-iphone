@@ -1,4 +1,4 @@
-123 Some general comments
+Some general comments
 ---------------------
 
     1. Try to keep the public interfaces to classes as simple as possible--anything
